@@ -4,6 +4,10 @@ body {
     background-color: #f0f0f0;
 }
 
+
+.important {
+    color: rgb(255, 10, 10);
+}
 .container {
     width: 80%;
     margin: 0 auto;
